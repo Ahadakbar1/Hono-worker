@@ -1,0 +1,7 @@
+{
+  "name": "hono-worker",
+  "type": "module",
+  "dependencies": {
+    "hono": "^4.0.0"
+  }
+}
